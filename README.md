@@ -3,8 +3,9 @@
 This README serves as my a plan of where I try to focus time (Last updated: Jan 2025. See [full history](https://github.com/jamesread/jamesread/commits/main/README.md)):
 
 - 🌱 **Creating**:
-  - Stable & maintaining: [OliveTin](https://github.com/OliveTin/OliveTin), [Faridoon](https://github.com/jamesread/Faridoon), [UAR](https://github.com/jamesread/uncomplicated-alert-receiver)
-  - Incubating: [Sicroc](https://github.com/jamesread/Sicroc), [Japella](https://github.com/jamesread/japella), [SpaghettiCannon](https://github.com/jamesread/SpaghettiCannon)
+  - [**Production**](https://github.com/jamesread?tab=repositories&q=maturity-prod&type=&language=&sort=stargazers): [OliveTin](https://github.com/OliveTin/OliveTin), [Faridoon](https://github.com/jamesread/Faridoon), [UAR](https://github.com/jamesread/uncomplicated-alert-receiver)
+  - [**Beta**](https://github.com/jamesread?tab=repositories&q=maturity-beta&type=&language=&sort=stargazers): [Sicroc](https://github.com/jamesread/Sicroc), [Japella](https://github.com/jamesread/japella), [SpaghettiCannon](https://github.com/jamesread/SpaghettiCannon)
+  - [**Alpha**](https://github.com/jamesread?tab=repositories&q=maturity-alpha&type=&language=&sort=stargazers): 
 - ⚡ **Contributing**: Recently freed up from contributing on another project - now looking to support others help release containers, setup CI/CD pipelines, release automation, etc
 
 **More of me**: [Social links & homepage](https://jread.com), [My Code, Containers & Cloud blog](https://blog.jread.com).
