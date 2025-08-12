@@ -1,6 +1,8 @@
-**James** is a **"full stack" Open Source Enthusiast**, who enjoys both creating, and contributuing to open source projects to in his free time. He enjoys working on projects relevant to the self hosted community, and favours non-nonsense open source, when possible. 
+**James** is a **no-nonsense software enthusiast**. This means free software that is also open source, self hostable, has welcoming communities, is independent and privacy respecting. 
 
-This README serves as my a plan of where I try to focus time (Last updated: May 2025. See [full history](https://github.com/jamesread/jamesread/commits/main/README.md)):
+**His main focus is on building no-nonsense webapps.**
+
+This README serves as quick guide to his projects and contributions (Last updated: Aug 2025. See [full history](https://github.com/jamesread/jamesread/commits/main/README.md)):
 
 - 🌱 **Creating**:
   - [**Production**](https://github.com/jamesread?tab=repositories&q=maturity-prod&type=&language=&sort=stargazers): [OliveTin](https://github.com/OliveTin/OliveTin), [Faridoon](https://github.com/jamesread/Faridoon), [spoon-check](https://github.com/jamesread/spoon-check), [UAR](https://github.com/jamesread/uncomplicated-alert-receiver), [libAllure](https://github.com/jamesread/libAllure) and several prometheus exporters.
