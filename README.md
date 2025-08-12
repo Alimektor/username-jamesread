@@ -1,4 +1,4 @@
-**James** is a **no-nonsense software enthusiast**. This means free software that is also open source, self hostable, has welcoming communities, is independent and privacy respecting. 
+**James** is a **developer and advocate of no-nonsense software**. This means software that is free software, and also open source, self hostable, has welcoming communities, is independent and privacy respecting. 
 
 **His main focus is on building no-nonsense webapps.**
 
