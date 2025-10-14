@@ -1,8 +1,6 @@
-**James** is a **developer and advocate of no-nonsense software**. This means software that is free software, and also open source, self hostable, has welcoming communities, is independent and privacy respecting. 
+**James** is a **developer and advocate of no-nonsense software**. This means software that is free software, and also open source, self hostable, has welcoming communities, is independent and privacy respecting. His *main focus* is on building no-nonsense *webapps*.
 
-**His main focus is on building no-nonsense webapps.**
-
-This README serves as quick guide to his projects and contributions (Last updated: Aug 2025. See [full history](https://github.com/jamesread/jamesread/commits/main/README.md)):
+This README serves as quick guide to his projects and contributions (Last updated: Oct 2025. See [full history](https://github.com/jamesread/jamesread/commits/main/README.md)):
 
 - 🌱 **Creating**:
   - [**Production**](https://github.com/jamesread?tab=repositories&q=maturity-prod&type=&language=&sort=stargazers): [OliveTin](https://github.com/OliveTin/OliveTin), [Faridoon](https://github.com/jamesread/Faridoon), [spoon-check](https://github.com/jamesread/spoon-check), [UAR](https://github.com/jamesread/uncomplicated-alert-receiver), [libAllure](https://github.com/jamesread/libAllure) and several prometheus exporters.
